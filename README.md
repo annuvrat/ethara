@@ -2,6 +2,10 @@
 
 Ethara is a premium, full-stack inventory, customer, and order management application. The project consists of a high-performance **FastAPI backend** backed by PostgreSQL (configured for Supabase), and a modern, responsive **React 19 + Vite frontend** styled with **Tailwind CSS v4**.
 
+**Live Link Frontend:** https://ethara-client.annuvrat.com
+**Live Link Backend:** https://ethara.annuvrat.com
+
+
 ---
 
 ## 🚀 Key Features
